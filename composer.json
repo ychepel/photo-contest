@@ -1,0 +1,10 @@
+{
+    "require": {
+        "monolog/monolog": "^1.23",
+        "sergeytsalkov/meekrodb": "*",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-0": {"Project": "src/"}
+    }
+}
